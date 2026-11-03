@@ -1,0 +1,8 @@
+{
+  "name": "AI Video Maker Pro",
+  "description": "Create cinematic AI videos, image-to-video animations, long videos, original AI songs, Hindi & English voiceovers, and multi-track edits for Android APK & Web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
